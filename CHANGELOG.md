@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/rti56kt/revanced-patches/compare/v1.0.2...v1.0.3) (2023-12-17)
+
+
+### Bug Fixes
+
+* fix fingerprint ([83ef3ae](https://github.com/rti56kt/revanced-patches/commit/83ef3ae5788194fb6a09e1e119be1f96edf3e8e6))
+
 ## [1.0.2](https://github.com/rti56kt/revanced-patches/compare/v1.0.1...v1.0.2) (2023-12-17)
 
 
