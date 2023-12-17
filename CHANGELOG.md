@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/rti56kt/revanced-patches/compare/v1.0.1...v1.0.2) (2023-12-17)
+
+
+### Bug Fixes
+
+* change defining class of fingerprint ([99a4d0c](https://github.com/rti56kt/revanced-patches/commit/99a4d0c09d1f11b881f4797113071658e33a95e8))
+
 ## [1.0.1](https://github.com/rti56kt/revanced-patches/compare/v1.0.0...v1.0.1) (2023-12-17)
 
 
