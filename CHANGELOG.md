@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/rti56kt/revanced-patches/compare/v1.0.4...v1.0.5) (2023-12-17)
+
+
+### Bug Fixes
+
+* fix defining class ([9357b8f](https://github.com/rti56kt/revanced-patches/commit/9357b8fda3a813e9c23054333b79154194bc018d))
+
 ## [1.0.4](https://github.com/rti56kt/revanced-patches/compare/v1.0.3...v1.0.4) (2023-12-17)
 
 
