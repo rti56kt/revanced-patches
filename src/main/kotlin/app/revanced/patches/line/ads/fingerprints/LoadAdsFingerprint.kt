@@ -13,6 +13,6 @@ internal object LoadAdsFingerprint : MethodFingerprint(
     ),
     accessFlags = AccessFlags.PUBLIC or AccessFlags.FINAL,
     customFingerprint = { methodDef, _ ->
-        methodDef.definingClass == "Lcom/linecorp/line/ladsdk/impl/internal/db/LadDatabase_Impl;"
+        methodDef.definingClass == "Lcom/linecorp/line/ladsdk/impl/internal/db/LadDatabase;"
     }
 )
