@@ -12,6 +12,6 @@ internal object LoadAdsFingerprint : MethodFingerprint(
     ),
     accessFlags = AccessFlags.PUBLIC or AccessFlags.FINAL,
     customFingerprint = { methodDef, _ ->
-        methodDef.definingClass == "Lcom/linecorp/line/ladsdk/LineAdvertise;"
+        methodDef.definingClass == "Landroid/content/Context;"
     }
 )

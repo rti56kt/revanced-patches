@@ -10,7 +10,7 @@ import app.revanced.patches.line.ads.fingerprints.LoadAdsFingerprint
 
 @Patch(
     name = "Hide ads",
-    description = "Hides ads.",
+    description = "Hides ads",
     compatiblePackages = [CompatiblePackage("jp.naver.line.android")]
 )
 @Suppress("unused")
