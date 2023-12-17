@@ -36,8 +36,8 @@ tasks.withType(Jar::class) {
         attributes["Description"] = "Patches for ReVanced."
         attributes["Version"] = version
         attributes["Timestamp"] = System.currentTimeMillis().toString()
-        attributes["Source"] = "git@github.com:you/revanced-patches.git"
-        attributes["Author"] = "You"
+        attributes["Source"] = "git@github.com:rti56kt/revanced-patches.git"
+        attributes["Author"] = "rti56kt"
         attributes["Contact"] = "contact@your.homepage"
         attributes["Origin"] = "https://your.homepage"
         attributes["License"] = "GNU General Public License v3.0"
@@ -94,15 +94,15 @@ publishing {
                 }
                 developers {
                     developer {
-                        id = "Your ID"
-                        name = "Your Name"
+                        id = "rti56kt"
+                        name = "Nicholas Li"
                         email = "contact@your.homepage"
                     }
                 }
                 scm {
-                    connection = "scm:git:git://github.com/you/revanced-patches.git"
-                    developerConnection = "scm:git:git@github.com:you/revanced-patches.git"
-                    url = "https://github.com/you/revanced-patches"
+                    connection = "scm:git:git://github.com/rti56kt/revanced-patches.git"
+                    developerConnection = "scm:git:git@github.com:rti56kt/revanced-patches.git"
+                    url = "https://github.com/rti56kt/revanced-patches"
                 }
             }
         }
