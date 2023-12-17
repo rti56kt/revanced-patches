@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Remove Ads",
+        "description": null,
+        "compatiblePackages": [
+            {
+                "name": "jp.naver.line.android",
+                "versions": [
+                    "13.20.2"
+                ]
+            }
+        ],
+        "use": true,
+        "requiresIntegrations": false,
+        "options": []
+    }
+]
